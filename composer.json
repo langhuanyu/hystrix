@@ -9,7 +9,7 @@
             "email": "langhuanyu123@126.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "dev-master",
     "require": {
         "php": ">=7.0"
     },
